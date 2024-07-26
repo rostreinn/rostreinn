@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Developer
 --------------------
 
-Hello, I am Mert Arda Serdar, I graduated from Bandırma Onyedi Eylül Univercity, Department of Computer Programming.I am interested in the game servers designed by Evil Roleplay, the young entrepreneurs project we created together with our circle of friends. I am working web design and development in the Vice Online.
+Hello, I am Mert Arda Serdar, I graduate from Bandırma Onyedi Eylül Univercity, Department of Computer Programming.I am interested in the game servers designed by Evil Roleplay, the young entrepreneurs project we created together with our circle of friends. I am working web design and development in the Vice Online.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mertsrdr0@gmail.com](mailto:mertsrdr0@gmail.com)
