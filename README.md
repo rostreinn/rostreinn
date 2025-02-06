@@ -15,7 +15,7 @@ Hello, I am Mert Arda Serdar, I graduate from Bandırma Onyedi Eylül Univercity
 <a href="https://www.github.com/rostreinn" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/rostreinn?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/mertsrdr0" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mertsrdr0?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="[https://www.twitch.tv/rostreinn0](https://kick.com/rostreinn)" target="_blank" rel="noreferrer"><img
+/></a><a href="[https://www.twitch.tv/rostreinn0]" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/rostreinn0?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 ### Skills
 
