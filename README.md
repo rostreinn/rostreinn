@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Arda Serdar!
 ==================================================================================================================================
 
-Junior Developer
+Frontend Developer
 --------------------
 
 Hello, I am Mert Arda Serdar, I graduate from Bandırma Onyedi Eylül Univercity, Department of Computer Programming.I am interested in the game servers designed by Evil Roleplay, the young entrepreneurs project we created together with our circle of friends. 
