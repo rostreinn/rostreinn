@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 --------------------
 
-Hello, I am Mert Arda Serdar, I graduate from Bandırma Onyedi Eylül Univercity, Department of Computer Programming.I am interested in the game servers designed by Evil Roleplay, the young entrepreneurs project we created together with our circle of friends. 
+I am a final-year student in the Computer Programming program at Bandırma Onyedi Eylül University, Gönen Vocational School. Currently, I am completing a remote internship at Serbay Interactive. I have a strong interest in software development, particularly in the field of Back-End development, and I am actively working to improve my skills in this area.
+
+Previously, I gained work experience in our family businesses in accounting and sales roles. Additionally, I served as a project manager and team member on the GTA San Andreas Multiplayer platform, which allowed me to enhance my teamwork, project coordination, and communication skills.
+
+Since my childhood, I have had a deep interest in entrepreneurship. I have developed and sold my own products, as well as collaborated with others to grow in this field. Currently, I am working on individual software projects focused on systems and design, while also participating in team-based projects aimed at generating additional income.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mertardaserdar1@gmail.com](mailto:mertardaserdar1@gmail.com)
