@@ -7,7 +7,7 @@ Frontend Developer
 Hello, I am Mert Arda Serdar, I graduate from Bandırma Onyedi Eylül Univercity, Department of Computer Programming.I am interested in the game servers designed by Evil Roleplay, the young entrepreneurs project we created together with our circle of friends. 
 
 * 🌍  I'm based in Turkey
-* ✉️  You can contact me at [mertsrdr0@gmail.com](mailto:mertsrdr0@gmail.com)
+* ✉️  You can contact me at [mertardaserdar1@gmail.com](mailto:mertardaserdar1@gmail.com)
 * 🚀  I'm currently working on None
 * 🧠  I'm learning php, javascript, vueJS, codeigniter
 * 🤝  I'm open to collaborating on any angular and .net projects
