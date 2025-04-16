@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mert Arda Serdar!
 ==================================================================================================================================
 
-Frontend Developer
+Full Stack Developer
 --------------------
 
 I am a final-year student in the Computer Programming program at Bandırma Onyedi Eylül University, Gönen Vocational School. Currently, I am completing a remote internship at Serbay Interactive. I have a strong interest in software development, particularly in the field of Back-End development, and I am actively working to improve my skills in this area.
