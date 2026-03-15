@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-███╗   ███╗███████╗██████╗ ████████╗ █████╗ ██████╗ ██████╗  █████╗
-████╗ ████║██╔════╝██╔══██╗╚══██╔══╝██╔══██╗██╔══██╗██╔══██╗██╔══██╗
-██╔████╔██║█████╗  ██████╔╝   ██║   ███████║██████╔╝██║  ██║███████║
-██║╚██╔╝██║██╔══╝  ██╔══██╗   ██║   ██╔══██║██╔══██╗██║  ██║██╔══██║
-██║ ╚═╝ ██║███████╗██║  ██║   ██║   ██║  ██║██║  ██║██████╔╝██║  ██║
-╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝
+██████╗  ██████╗ ███████╗████████╗██████╗ ███████╗██╗███╗   ██╗███╗   ██╗
+██╔══██╗██╔═══██╗██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║████╗  ██║████╗  ██║
+██████╔╝██║   ██║███████╗   ██║   ██████╔╝█████╗  ██║██╔██╗ ██║██╔██╗ ██║
+██╔══██╗██║   ██║╚════██║   ██║   ██╔══██╗██╔══╝  ██║██║╚██╗██║██║╚██╗██║
+██║  ██║╚██████╔╝███████║   ██║   ██║  ██║███████╗██║██║ ╚████║██║ ╚████║
+╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
 ```
 
 </div>
@@ -23,7 +23,7 @@ Computer Programming · Bandırma Onyedi Eylül University &nbsp;|&nbsp; Remote 
 
 [![GitHub followers](https://img.shields.io/github/followers/rostreinn?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.github.com/rostreinn)
 [![X Follow](https://img.shields.io/twitter/follow/mertsrdr0?logo=twitter&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.x.com/mertsrdr0)
-[![Twitch Status](https://img.shields.io/twitch/status/rostreinn0?logo=twitch&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.twitch.tv/rostreinn0)
+[![Kick](https://img.shields.io/badge/Kick-53FC18?logo=kick&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.kick.com/rostreinn0)
 
 </div>
 
@@ -101,8 +101,8 @@ Currently completing a remote internship at **Serbay Interactive** while buildin
   <a href="http://www.youtube.com/@rostreinn1847" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.twitch.tv/rostreinn0" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  <a href="https://www.kick.com/rostreinn0" target="_blank">
+    <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" />
   </a>
   <a href="https://discord.com/users/rostreinn" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
