@@ -19,7 +19,7 @@
 
 **Mert Arda Serdar**
 
-Computer Programming · Bandırma Onyedi Eylül University &nbsp;|&nbsp; Remote Intern @ Serbay Interactive
+Computer Programming · Bandırma Onyedi Eylül University &nbsp;|&nbsp;
 
 [![GitHub followers](https://img.shields.io/github/followers/rostreinn?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.github.com/rostreinn)
 [![X Follow](https://img.shields.io/twitter/follow/mertsrdr0?logo=twitter&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.x.com/mertsrdr0)
