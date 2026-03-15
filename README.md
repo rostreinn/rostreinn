@@ -33,7 +33,7 @@ Computer Programming · Bandırma Onyedi Eylül University &nbsp;|&nbsp; Remote 
 
 Passionate about software development, especially **Back-End** systems. Computer Programming graduate with a background in entrepreneurship, accounting, and project coordination — including managing game server teams on the GTA San Andreas Multiplayer platform.
 
-Currently completing a remote internship at **Serbay Interactive** while building personal software projects focused on systems and design, and contributing to team-based income-generating products.
+Currently completed a remote internship at **Serbay Interactive** while building personal software projects focused on systems and design, and contributing to team-based income-generating products.
 
 - 🌍 Based in **Turkey**
 - 📫 Reach me at **mertardaserdar1@gmail.com**
