@@ -23,7 +23,7 @@ Computer Programming · Bandırma Onyedi Eylül University &nbsp;|&nbsp; Remote 
 
 [![GitHub followers](https://img.shields.io/github/followers/rostreinn?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.github.com/rostreinn)
 [![X Follow](https://img.shields.io/twitter/follow/mertsrdr0?logo=twitter&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.x.com/mertsrdr0)
-[![Kick](https://img.shields.io/badge/Kick-53FC18?logo=kick&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.kick.com/rostreinn0)
+[![Kick](https://img.shields.io/badge/Kick-53FC18?logo=kick&style=flat-square&color=0891b2&labelColor=1c1917)](https://www.kick.com/rostreinn1)
 
 </div>
 
@@ -98,10 +98,10 @@ Currently completing a remote internship at **Serbay Interactive** while buildin
   <a href="http://www.instagram.com/mertardaserdar" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="http://www.youtube.com/@rostreinn1847" target="_blank">
+  <a href="http://www.youtube.com/@rostreinn" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.kick.com/rostreinn0" target="_blank">
+  <a href="https://www.kick.com/rostreinn1" target="_blank">
     <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kick&logoColor=black" />
   </a>
   <a href="https://discord.com/users/rostreinn" target="_blank">
